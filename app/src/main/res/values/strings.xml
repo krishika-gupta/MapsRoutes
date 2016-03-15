@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapsRoutes</string>
+    <string name="android_key">AIzaSyCuPUVN-1_2cYk8hbEMe9q0J0Wvrc4lGW4</string>
+    <string name="destination">Destination</string>
+</resources>
